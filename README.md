@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Lama Bahaydarah</h1>
+<h1>Hi 👋, I'm Lama </h1>
 <h3>Information System Student</h3>
 
 - 👨‍💻 I’m currently studing on **King Abdulaziz University**
